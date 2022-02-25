@@ -1,0 +1,14 @@
+/* This is applying our branded blue color */
+
+p {
+    color: aliceblue;
+    font-size: 13px;
+}
+body {
+    background-color:black;
+}
+div { 
+    background-color: aquamarine;
+}
+
+/* This is a multi line comment */
