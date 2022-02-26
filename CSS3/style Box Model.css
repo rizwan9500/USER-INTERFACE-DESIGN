@@ -1,0 +1,17 @@
+#div-one { 
+    background-color: black;
+    color: #ffffff;
+    height: 200px;
+    padding: 200px;
+    border-style: solid;
+    border-width:50px;
+    border-color: aqua;
+}
+#div-two { 
+    background-color: red;
+    height: 100px;
+}
+#div-three {  
+    background-color: blue;
+    height: 100px;
+}
