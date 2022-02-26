@@ -5,10 +5,26 @@ p {
     font-size: 13px;
 }
 body {
-    background-color:black;
+    background-color:black ;
+    background-image:url(../images/Future.png);
+    background-repeat:no-repeat;
+    
+    /* Or we can create in one line like
+    background: black url(../images/Future.png) no-repeat;
+    */
 }
 div { 
     background-color: aquamarine;
 }
+#cssexample {
+    color: purple;
+}
+h1.red { 
+    color: red;
+}
+h2, p {
+    color: red;
+    text-align: center;
+} 
 
 /* This is a multi line comment */
